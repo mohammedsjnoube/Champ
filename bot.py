@@ -7,7 +7,7 @@ from tele_saavn import *
 from tele_temp import temp
 from tele_cricket import *
 
-token = 'your access token'
+token = '1466497669:AAENHJ2K5oC8qGraC07ntxbZTXIlTa60IG8'
 url = 'https://api.telegram.org/bot{}/'.format(token)
 
 
